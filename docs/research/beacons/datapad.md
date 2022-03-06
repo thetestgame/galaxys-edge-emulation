@@ -2,6 +2,7 @@
 layout: default
 title: Datapads
 parent: Bluetooth Beacons
+grand_parent: Research
 ---
 
 # Datapad App						

@@ -3,6 +3,7 @@ layout: default
 title: Bluetooth Beacons
 nav_order: 2
 has_children: true
+parent: Research
 ---
 		
 # Resources						

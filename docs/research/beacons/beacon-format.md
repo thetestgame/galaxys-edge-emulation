@@ -2,6 +2,7 @@
 layout: default
 title: Beacon Format
 parent: Bluetooth Beacons
+grand_parent: Research
 ---
 
 Beacons emitted and consumed by droids use data stored in the "Manufacturer Specific Data" section of a Bluetooth beacon. 						

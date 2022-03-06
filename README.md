@@ -1,3 +1,6 @@
-# galaxys-edge-emulation
+# Open Galaxy
 
-https://docs.google.com/spreadsheets/d/13P_GE6tNYpGvoVUTEQvA3SQzMqpZ-SoiWaTNoJoTV9Q/edit#gid=702279780
+# Copyright/License
+
+Copyright &copy; 2022 Jordan Maxwell. Distributed by an <a href="License">MIT license.</a><br/>
+The Open Galaxy project is not affiliated with The Walt Disney Company.
